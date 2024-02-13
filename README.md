@@ -23,8 +23,8 @@ Etapa 2: Construir la interacción con la base de datos y validaciones correspon
 Consideraciones: la app debe manejar arquitectura en capas, manejo de excepciones y validaciones cuando corresponda.
 
 
-- En la parte visual agregue bastantes ya que esta parte era libre y a consideracion del desarrollador
-- La base de dats fue  creada y proporcionada por el profesor , lo que se realizo fue las consultas en el SQL Server Management Studio y la conexion a esta misma para manejar dichas consultas
+- En la parte visual agregue bastantes funcionalidades ya que era libre el desarrollo
+- La base de datos fue  creada y proporcionada por el profesor , lo que se realizo fue las consultas en el SQL Server Management Studio y la conexion a esta misma para manejar dichas consultas
   
   
 -IMAGENES DE LA APP
