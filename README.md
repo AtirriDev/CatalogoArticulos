@@ -34,6 +34,10 @@ Consideraciones: la app debe manejar arquitectura en capas, manejo de excepcione
 ![Captura de pantalla App Catalogo Articulos 2 ](https://github.com/AtirriDev/CatalogoArticulos/assets/147408803/00b36509-1e9d-4019-982b-fb68b54f3e34)
 
 
+-Video de muestra de la App funcionando 
+https://youtu.be/iUOh8JUQ0eQ
+
+
 
 
 
