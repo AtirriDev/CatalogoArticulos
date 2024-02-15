@@ -25,6 +25,7 @@ Consideraciones: la app debe manejar arquitectura en capas, manejo de excepcione
 
 - En la parte visual agregue bastantes funcionalidades ya que era libre el desarrollo
 - La base de datos fue  creada y proporcionada por el profesor , lo que se realizo fue las consultas en el SQL Server Management Studio y la conexion a esta misma para manejar dichas consultas
+- Manejo , gestión y conexión a base de datos sql para realizar CRUD sobre la misma 
   
   
 -IMAGENES DE LA APP
